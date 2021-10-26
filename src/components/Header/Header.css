@@ -1,0 +1,16 @@
+nav {
+  height: 60px;
+  line-height: 60px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+}
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 8px;
+  padding: 3px 8px;
+  font-size: 18px;
+}
